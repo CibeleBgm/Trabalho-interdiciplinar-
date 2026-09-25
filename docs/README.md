@@ -1,4 +1,30 @@
-# Documentação do Projeto
+# Introdução
+
+Informações básicas do projeto.
+
+- Projeto: [NOME DO PROJETO]
+- Repositório GitHub: [LINK]
+- Membros da equipe:
+  - Ryan Gabriel
+  - [Nome]
+  - [Nome]
+  - [Nome]
+  - [Nome]
+
+A documentação do projeto é estruturada da seguinte forma:
+
+1. Introdução
+2. Contexto
+3. Product Discovery
+4. Product Design
+5. Metodologia
+6. Solução
+7. Referências Bibliográficas
+
+
+
+
+  # Documentação do Projeto
 
 ## 1. Contexto do Projeto
 
