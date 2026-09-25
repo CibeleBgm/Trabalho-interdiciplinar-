@@ -5,11 +5,13 @@ Informações básicas do projeto.
 - Projeto: [NOME DO PROJETO]
 - Repositório GitHub: [LINK]
 - Membros da equipe:
-  - Ryan Gabriel
-  - [Nome]
-  - [Nome]
-  - [Nome]
-  - [Nome]
+  
+- Cibele Gomes
+- Isabelle Fernandes
+- Joaquim Fernandes
+- Junio César
+- Pedro Cristian
+- Ryan Gabriel
 
 A documentação do projeto é estruturada da seguinte forma:
 
