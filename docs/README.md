@@ -5,13 +5,14 @@ Informações básicas do projeto.
 - Projeto: Control
 - Repositório GitHub: [[LINK]](https://github.com/CibeleBgm/Trabalho-interdiciplinar-.git)
 - Membros da equipe:
-  
-  Cibele Gomes
-  Isabelle Fernandes
-  Joaquim Fernandes
-  Junio César
-  Pedro Cristian
-  Ryan Gabriel
+
+  #
+- Cibele Gomes
+- Isabelle Fernandes
+- Joaquim Fernandes
+- Junio César
+- Pedro Cristian
+- Ryan Gabriel
 
 A documentação do projeto é estruturada da seguinte forma:
 
