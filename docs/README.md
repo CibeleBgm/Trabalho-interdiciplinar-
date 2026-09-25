@@ -25,31 +25,45 @@ A documentação do projeto é estruturada da seguinte forma:
 
 
 
-# 1. Contexto
+# 1. Contexto do Projeto
 
 ## 1.1 Problema
 
-[Descrição do problema]
+Muitas pessoas possuem dificuldade para acompanhar e organizar suas receitas e despesas ao longo do mês. A falta de um controle financeiro simples pode fazer com que o usuário não tenha uma visão clara de quanto está gastando, em quais categorias concentra seus gastos e quanto ainda possui disponível para utilizar.
+
+Esse problema pode ser ainda mais relevante quando a pessoa possui diferentes tipos de despesas, como alimentação, transporte, lazer, contas e compras, ou quando precisa separar gastos pessoais de gastos relacionados a atividades profissionais ou negócios.
+
+Dessa forma, existe a necessidade de compreender melhor os hábitos de controle financeiro das pessoas e as dificuldades encontradas por elas no acompanhamento de suas movimentações financeiras.
 
 ## 1.2 Objetivo do Projeto
 
 ### Objetivo Geral
 
-[Objetivo geral]
+Desenvolver uma solução de software que auxilie os usuários no controle e na organização de suas receitas e despesas, permitindo acompanhar suas movimentações financeiras de maneira simples e organizada.
 
 ### Objetivos Específicos
 
-- [Objetivo específico 1]
-- [Objetivo específico 2]
-- [Objetivo específico 3]
+* Facilitar o registro e a organização de receitas e despesas.
+* Permitir a classificação das movimentações por categorias.
+* Possibilitar a separação entre movimentações pessoais e relacionadas a negócios.
+* Auxiliar o usuário no acompanhamento de seus gastos ao longo do período.
+* Facilitar a identificação dos hábitos de consumo e das principais categorias de despesas.
 
 ## 1.3 Justificativa
 
-[Por que esse problema é importante e por que o projeto está sendo desenvolvido.]
+O controle das movimentações financeiras é importante para que as pessoas possam compreender melhor como seus recursos estão sendo utilizados. Quando os gastos não são registrados ou organizados, torna-se mais difícil acompanhar o orçamento e identificar situações que podem comprometer o planejamento financeiro.
+
+O projeto é motivado pela necessidade de oferecer uma forma simples de registrar e organizar essas informações, evitando que o usuário precise utilizar métodos dispersos, como anotações manuais ou diferentes ferramentas para acompanhar seus gastos.
+
+A definição dos objetivos específicos busca atender principalmente às dificuldades relacionadas ao registro, à classificação e ao acompanhamento das movimentações financeiras. A organização por categorias e a separação entre gastos pessoais e de negócio também permitem uma visualização mais adequada das informações registradas.
 
 ## 1.4 Público-alvo
 
-[Descrição dos usuários/pessoas afetadas pelo problema.]
+O projeto é direcionado principalmente a pessoas que desejam organizar melhor suas finanças e acompanhar suas receitas e despesas no dia a dia.
+
+Entre os possíveis usuários estão estudantes, trabalhadores, autônomos e pessoas que possuem atividades profissionais ou pequenos negócios e precisam acompanhar tanto movimentações pessoais quanto relacionadas ao trabalho.
+
+O público-alvo não precisa possuir conhecimentos avançados de tecnologia ou de educação financeira. A proposta considera usuários que buscam uma forma prática e simples de registrar suas movimentações e visualizar sua situação financeira.
 
 
 # 2. Product Discovery
