@@ -10,12 +10,12 @@ Descrição resumida do projeto.
 
 ## Integrantes
 
-- Ryan Gabriel
-- Pedro Cristian
-- Junio César
-- Joaquim Fernandes
-- Isabelle Fernandes
 - Cibele Gomes
+- Isabelle Fernandes
+- Joaquim Fernandes
+- Junio César
+- Pedro Cristian
+- Ryan Gabriel
 
 ## Documentação
 
