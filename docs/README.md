@@ -2,8 +2,8 @@
 
 Informações básicas do projeto.
 
-- Projeto: [NOME DO PROJETO]
-- Repositório GitHub: [LINK]
+- Projeto: Control
+- Repositório GitHub: [[LINK]](https://github.com/CibeleBgm/Trabalho-interdiciplinar-.git)
 - Membros da equipe:
   
   Cibele Gomes
