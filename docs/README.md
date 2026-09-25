@@ -6,12 +6,12 @@ Informações básicas do projeto.
 - Repositório GitHub: [LINK]
 - Membros da equipe:
   
-- Cibele Gomes
-- Isabelle Fernandes
-- Joaquim Fernandes
-- Junio César
-- Pedro Cristian
-- Ryan Gabriel
+  Cibele Gomes
+  Isabelle Fernandes
+  Joaquim Fernandes
+  Junio César
+  Pedro Cristian
+  Ryan Gabriel
 
 A documentação do projeto é estruturada da seguinte forma:
 
@@ -25,81 +25,87 @@ A documentação do projeto é estruturada da seguinte forma:
 
 
 
+# 1. Contexto
 
-  # Documentação do Projeto
+## 1.1 Problema
 
-## 1. Contexto do Projeto
+[Descrição do problema]
 
-### 1.1 Problema
+## 1.2 Objetivo do Projeto
 
-...
+### Objetivo Geral
 
-### 1.2 Objetivo do Projeto
+[Objetivo geral]
 
-...
+### Objetivos Específicos
 
-### 1.3 Justificativa
+- [Objetivo específico 1]
+- [Objetivo específico 2]
+- [Objetivo específico 3]
 
-...
+## 1.3 Justificativa
 
-### 1.4 Público-alvo
+[Por que esse problema é importante e por que o projeto está sendo desenvolvido.]
 
-...
+## 1.4 Público-alvo
 
-## 2. Product Discovery
+[Descrição dos usuários/pessoas afetadas pelo problema.]
 
-### 2.1 Matriz CSD
 
-[imagem]
+# 2. Product Discovery
 
-### 2.2 Mapa de Stakeholders
+## 2.1 Matriz CSD
 
-[imagem]
+[Inserir Matriz CSD]
 
-### 2.3 Pesquisa e entendimento do problema
+## 2.2 Mapa de Stakeholders
 
-...
+[Inserir Mapa de Stakeholders]
 
-### 2.4 Personas
+## 2.3 Pesquisa e Entendimento do Problema
 
-...
+[Descrever as pesquisas realizadas, fontes consultadas, entrevistas/questionários e resultados.]
 
-## 3. Product Design
+## 2.4 Personas
 
-### 3.1 Histórias de Usuário
+[Descrever as personas identificadas.]
 
-...
 
-### 3.2 Proposta de Valor
+# 3. Product Design
 
-[imagem]
+## 3.1 Histórias de Usuários
 
-### 3.3 Fluxo do Usuário
+[Inserir as histórias de usuários desenvolvidas pelo grupo.]
 
-[imagem]
+## 3.2 Proposta de Valor
 
-### 3.4 Wireframes
+[Inserir o mapa/diagrama da proposta de valor.]
 
-[imagens]
+## 3.3 Projeto de Interface
 
-### 3.5 Protótipo Interativo
+### 3.3.1 Fluxo do Usuário
 
-[link do Figma]
+[Inserir o fluxo das telas.]
 
-## 4. Metodologia
+### 3.3.2 Wireframes
 
-### 4.1 Ferramentas
+[Inserir os wireframes.]
 
-...
+### 3.3.3 Protótipo Interativo
 
-### 4.2 Organização da Equipe e Divisão de Papéis
+[Inserir o link do Figma/protótipo.]
 
-...
 
-### 4.3 Kanban
+# 4. Metodologia
 
-[imagem]
+## 4.1 Ferramentas
 
-## 5. Referências Bibliográficas
+[Lista das ferramentas utilizadas + links + justificativa.]
 
-...
+## 4.2 Organização da Equipe e Divisão de Papéis
+
+[Explicar como a equipe se organizou, divisão de tarefas e utilização do Scrum.]
+
+## 4.3 Kanban
+
+[Inserir imagem do Kanban e link para o quadro.]
