@@ -72,7 +72,7 @@ De forma geral, é um público com pouco ou nenhum conhecimento técnico sobre f
 
 A Matriz CSD foi utilizada para organizar os conhecimentos, dúvidas e hipóteses levantados pela equipe durante o processo de entendimento do problema.
 
-Certezas
+*Certezas*
 
 A maioria das pessoas ainda recorre a planilhas ou meios paralelos para controle financeiro.
 
@@ -80,7 +80,7 @@ O medo de expor senhas bancárias ainda é um obstáculo para a adoção de auto
 
 Muitas pessoas se lembram de organizar as finanças principalmente quando ficam sem dinheiro no fim do mês.
 
-Dúvidas
+*Dúvidas*
 
 Os usuários gostariam de ter acesso a conteúdos de educação financeira básica dentro do aplicativo?
 
@@ -88,7 +88,7 @@ Quanto mais simples e intuitiva for a utilização, menor será o abandono da fe
 
 O principal motivo de abandono de aplicativos financeiros é a dificuldade ou falta de hábito de registrar cada gasto manualmente no momento da compra?
 
-Suposições
+*Suposições*
 
 O usuário utilizará o aplicativo com frequência.
 
@@ -314,7 +314,7 @@ A partir das personas identificadas, foram elaboradas histórias de usuários pa
 
 [Inserir imagem do Kanban e link para o quadro.]
 
-## 4.4 Referencias
+## 4.4 Referências
 
 • SERASA (dados IBGE 2022). Saiba como é o trabalho autônomo. Disponível em: https://www.serasa.com.br/blog/como-e-trabalho-autonomo 
 • BANCO CENTRAL DO BRASIL. Pesquisa de Letramento e Inclusão Financeira, em parceria com o Fundo Garantidor de Créditos (FGC). Disponível em: https://convergenciadigital.com.br/?p=27092  
@@ -323,6 +323,6 @@ A partir das personas identificadas, foram elaboradas histórias de usuários pa
 • SERASA EXPERIAN. Mapa da Inadimplência (levantamento mensal por faixa etária). Disponível em: https://vitrine.sebraego.com.br/wpcontent/uploads/2025/07/mapa-da-inadimplencia-maio-serasa.pdf  
 • https://vitrine.sebraego.com.br/wp-content/uploads/2025/07/mapa-da-inadimplenciamaio-serasa.pdf  
 • https://agenciadenoticias.ibge.gov.br/agencia-noticias/31401-72-4-dos-brasileirosvivem-em-familias-com-dificuldades-para-pagar-as-contas.html 
-• https://convergenciadigital.com.br/?p=27092 
-• https://www.spcbrasil.org.br/uploads/st_imprensa/release_educacao_financeira_v7.pd f 
+• https://convergenciadigital.com.br/?p=27092
+• https://www.spcbrasil.org.br/uploads/st_imprensa/release_educacao_financeira_v7.pd
 • https://www.serasa.com.br/blog/como-e-trabalho-autonomo 
