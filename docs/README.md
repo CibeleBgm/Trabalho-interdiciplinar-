@@ -67,11 +67,28 @@ Entre os possíveis usuários estão estudantes, trabalhadores, autônomos e pes
 O público-alvo não precisa possuir conhecimentos avançados de tecnologia ou de educação financeira. A proposta considera usuários que buscam uma forma prática e simples de registrar suas movimentações e visualizar sua situação financeira.
 
 
-# 2. Product Discovery
+2. Product Discovery
+2.1 Matriz CSD (Matriz de Alinhamento)
 
-## 2.1 Matriz CSD
+A Matriz CSD foi utilizada para organizar os conhecimentos, dúvidas e hipóteses levantados pela equipe durante o processo de entendimento do problema.
 
-[Inserir Matriz CSD]
+Certezas
+A maioria das pessoas ainda recorre a planilhas ou meios paralelos para controle financeiro.
+O medo de expor senhas bancárias ainda é um obstáculo para a adoção de automações financeiras.
+Muitas pessoas se lembram de organizar as finanças principalmente quando ficam sem dinheiro no fim do mês.
+Dúvidas
+Os usuários gostariam de ter acesso a conteúdos de educação financeira básica dentro do aplicativo?
+Quanto mais simples e intuitiva for a utilização, menor será o abandono da ferramenta?
+O principal motivo de abandono de aplicativos financeiros é a dificuldade ou falta de hábito de registrar cada gasto manualmente no momento da compra?
+Suposições
+O usuário utilizará o aplicativo com frequência.
+Lembretes por notificação podem contribuir para aumentar a utilização da ferramenta.
+O usuário deseja visualizar gráficos sobre seus gastos.
+Pequenas compras realizadas no dia a dia podem ser mais difíceis de registrar e acompanhar.
+
+Artefato:
+
+![Matriz CSD](imagens/matriz-csd.png)
 
 ## 2.2 Mapa de Stakeholders
 
