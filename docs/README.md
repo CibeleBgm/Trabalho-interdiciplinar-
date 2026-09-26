@@ -126,11 +126,100 @@ Stakeholders que podem contribuir com avaliações e conhecimentos relacionados 
 
 ## 2.3 Pesquisa e Entendimento do Problema
 
-[Descrever as pesquisas realizadas, fontes consultadas, entrevistas/questionários e resultados.]
+Durante a etapa de Product Discovery, a equipe realizou pesquisas sobre educação financeira, controle de despesas, endividamento e diferentes perfis de renda.
+
+Os dados pesquisados indicaram dificuldades relevantes relacionadas ao controle das finanças pessoais. Entre os dados levantados pela equipe estão informações sobre a dificuldade de parte da população em calcular juros, acompanhar os próprios gastos e pagar as despesas mensais.
+
+Também foram pesquisadas informações relacionadas aos trabalhadores autônomos e à inadimplência no Brasil. Esses dados contribuíram para a definição de um público que contempla tanto pessoas com renda fixa quanto pessoas com renda variável.
+
+A pesquisa também ajudou a equipe a identificar dificuldades relacionadas ao registro das despesas, ao planejamento financeiro e à necessidade de uma comunicação simples para usuários com diferentes níveis de conhecimento sobre finanças.
+
+### Principais fontes consultadas
+
+* Serasa Experian.
+* Banco Central do Brasil.
+* IBGE.
+* SPC Brasil e CNDL.
+
+Os resultados dessa pesquisa serviram como base para a definição do problema, do público-alvo e das personas utilizadas nas etapas seguintes.
 
 ## 2.4 Personas
 
-[Descrever as personas identificadas.]
+Com base no problema identificado e no público-alvo definido, foram elaboradas três personas que representam diferentes perfis de usuários que podem utilizar a solução.
+
+### Regina Silva — Profissional com renda variável
+
+Regina Silva representa uma usuária que possui rendimento variável e precisa lidar com diferentes valores de renda ao longo dos meses.
+
+**Perfil:**
+
+* Profissional com renda variável.
+* Possui dificuldade para prever quanto poderá gastar em cada mês.
+* Precisa se preparar para períodos de menor rendimento.
+* Busca construir uma reserva financeira.
+
+**Necessidades:**
+
+* Ter uma referência de renda segura para planejar os gastos.
+* Acompanhar sua reserva financeira.
+* Organizar receitas e despesas.
+* Visualizar seu histórico financeiro.
+
+**Dificuldades:**
+
+* Variação da renda mensal.
+* Necessidade de reservar dinheiro para impostos e emergências.
+* Incerteza sobre os valores disponíveis para gastar.
+
+### Camila Andrade — Trabalhadora com renda fixa
+
+Camila Andrade representa uma usuária com renda estável, mas que possui dificuldades relacionadas ao controle dos gastos e às compras por impulso.
+
+**Perfil:**
+
+* Possui renda fixa.
+* Tem dificuldade para acompanhar o destino do próprio salário.
+* Pode realizar compras por impulso.
+* Deseja melhorar seus hábitos financeiros.
+
+**Necessidades:**
+
+* Visualizar seus gastos de forma simples.
+* Identificar comportamentos de consumo.
+* Acompanhar o progresso de suas economias.
+* Compreender os impactos de determinadas compras.
+
+**Dificuldades:**
+
+* Compras por impulso.
+* Controle da fatura do cartão.
+* Falta de uma visão simples dos gastos durante o mês.
+
+### Lucas Martins — Jovem em início de carreira
+
+Lucas Martins representa um usuário que está começando sua vida profissional e deseja desenvolver hábitos de organização financeira.
+
+**Perfil:**
+
+* Está no início da carreira.
+* Possui pouca experiência com planejamento financeiro.
+* Deseja aprender a organizar suas receitas e despesas.
+* Busca criar hábitos financeiros para o futuro.
+
+**Necessidades:**
+
+* Registrar movimentações de forma simples.
+* Entender para onde seu dinheiro está indo.
+* Criar e acompanhar metas financeiras.
+* Ter acesso a conteúdos básicos sobre educação financeira.
+
+**Dificuldades:**
+
+* Pouco conhecimento sobre finanças.
+* Falta de experiência com planejamento financeiro.
+* Dificuldade para interpretar informações financeiras complexas.
+
+
 
 
 # 3. Product Design
