@@ -226,7 +226,38 @@ Lucas Martins representa um usuário que está começando sua vida profissional 
 
 ## 3.1 Histórias de Usuários
 
-[Inserir as histórias de usuários desenvolvidas pelo grupo.]
+A partir das personas identificadas, foram elaboradas histórias de usuários para representar necessidades e funcionalidades esperadas pelos diferentes perfis.
+
+### Regina Silva
+
+* Como usuária de rendimento variável, desejo que o aplicativo calcule automaticamente uma "renda segura", baseada na minha renda mínima, média e máxima, para que eu possa planejar meus gastos sem prejudicar os meses de menor rendimento.
+
+* Como usuária independente, desejo destinar automaticamente uma parcela de cada Pix que recebo para pagamento de impostos e reserva, para evitar surpresas no final do mês.
+
+* Como uma usuária que obtém informações de diversas fontes, desejo visualizar um histórico básico de meses favoráveis e desfavoráveis, para me organizar com mais segurança.
+
+* Como usuária sem proteção financeira, desejo monitorar visualmente meu objetivo de reserva, em meses de custo de vida, para entender o quanto ainda preciso acumular.
+
+### Camila Andrade
+
+* Como usuária com renda fixa, desejo visualizar um painel simples que mostre o destino do meu dinheiro ao longo do mês, facilitando a compreensão dos meus gastos sem a necessidade de consultar planilhas.
+
+* Como consumidora que realiza compras por impulso, desejo receber notificações sobre possíveis compras por impulso à noite ou aos finais de semana, para me auxiliar a evitar gastos desnecessários.
+
+* Como usuária que acompanha a fatura do cartão, desejo utilizar um simulador que mostre o custo real de entrar no crédito rotativo, para compreender melhor as consequências dessa escolha.
+
+* Como usuária que deseja guardar dinheiro, quero acompanhar o progresso da minha economia mês a mês de forma visual e simples, para acompanhar minha evolução.
+
+### Lucas Martins
+
+* Como usuário no início da carreira, quero registrar minhas receitas e despesas de forma simples, para começar a desenvolver o hábito de controle financeiro.
+
+* Como usuário com pouca experiência financeira, quero visualizar relatórios e gráficos simples dos meus gastos, para entender onde meu dinheiro está sendo utilizado.
+
+* Como usuário que deseja se planejar, quero criar metas financeiras, como uma reserva ou objetivo específico, e acompanhar seu progresso.
+
+* Como usuário iniciante, quero acessar conteúdos básicos de educação financeira dentro do próprio aplicativo, para aprender aos poucos sem precisar buscar essas informações em outro lugar.
+
 
 ## 3.2 Proposta de Valor
 
