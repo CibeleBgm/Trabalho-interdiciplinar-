@@ -126,12 +126,13 @@ Stakeholders que podem contribuir com avaliações e conhecimentos relacionados 
 
 ## 2.3 Pesquisa e Entendimento do Problema
 
-Metodologia adotada
+Metodologia adotada: 
+
 O grupo optou por uma pesquisa exploratória baseada em levantamento de dados secundários (estatísticas de institutos e órgãos especializados em finanças pessoais no Brasil), usados como base para embasar a criação das personas e do Mapa de Empatia.
 
 Fontes consultadas
 
-Serasa — levantamento sobre inadimplência por faixa etária.
+Serasa: levantamento sobre inadimplência por faixa etária.
 Pesquisas de mercado sobre trabalho autônomo no Brasil.
 Levantamentos sobre educação financeira e hábitos de consumo da população brasileira.
 
