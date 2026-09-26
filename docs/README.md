@@ -319,10 +319,13 @@ A partir das personas identificadas, foram elaboradas histórias de usuários pa
 • SERASA (dados IBGE 2022). Saiba como é o trabalho autônomo. Disponível em: https://www.serasa.com.br/blog/como-e-trabalho-autonomo 
 • BANCO CENTRAL DO BRASIL. Pesquisa de Letramento e Inclusão Financeira, em parceria com o Fundo Garantidor de Créditos (FGC). Disponível em: https://convergenciadigital.com.br/?p=27092  
 • IBGE. Pesquisa de Orçamentos Familiares (POF) 2017-2018: Perfil das Despesas. Agência de Notícias IBGE, 19/08/2021. Disponível em: https://agenciadenoticias.ibge.gov.br/agencia-noticias/31401-72-4-dos-brasileirosvivem-em-familias-com-dificuldades-para-pagar-as-contas.html  
-• SPC BRASIL; CNDL. Pesquisa sobre educação financeira e controle de orçamento dos brasileiros. Disponível em: https://www.spcbrasil.org.br/uploads/st_imprensa/release_educacao_financeira_v7.pd f  
+• SPC BRASIL; CNDL. Pesquisa sobre educação financeira e controle de orçamento dos brasileiros. Disponível em: https://www.spcbrasil.org.br/uploads/st_imprensa/release_educacao_financeira_v7.pd  
 • SERASA EXPERIAN. Mapa da Inadimplência (levantamento mensal por faixa etária). Disponível em: https://vitrine.sebraego.com.br/wpcontent/uploads/2025/07/mapa-da-inadimplencia-maio-serasa.pdf  
 • https://vitrine.sebraego.com.br/wp-content/uploads/2025/07/mapa-da-inadimplenciamaio-serasa.pdf  
 • https://agenciadenoticias.ibge.gov.br/agencia-noticias/31401-72-4-dos-brasileirosvivem-em-familias-com-dificuldades-para-pagar-as-contas.html 
+
 • https://convergenciadigital.com.br/?p=27092
+
 • https://www.spcbrasil.org.br/uploads/st_imprensa/release_educacao_financeira_v7.pd
+
 • https://www.serasa.com.br/blog/como-e-trabalho-autonomo 
