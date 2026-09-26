@@ -73,17 +73,29 @@ De forma geral, é um público com pouco ou nenhum conhecimento técnico sobre f
 A Matriz CSD foi utilizada para organizar os conhecimentos, dúvidas e hipóteses levantados pela equipe durante o processo de entendimento do problema.
 
 Certezas
+
 A maioria das pessoas ainda recorre a planilhas ou meios paralelos para controle financeiro.
+
 O medo de expor senhas bancárias ainda é um obstáculo para a adoção de automações financeiras.
+
 Muitas pessoas se lembram de organizar as finanças principalmente quando ficam sem dinheiro no fim do mês.
+
 Dúvidas
+
 Os usuários gostariam de ter acesso a conteúdos de educação financeira básica dentro do aplicativo?
+
 Quanto mais simples e intuitiva for a utilização, menor será o abandono da ferramenta?
+
 O principal motivo de abandono de aplicativos financeiros é a dificuldade ou falta de hábito de registrar cada gasto manualmente no momento da compra?
+
 Suposições
+
 O usuário utilizará o aplicativo com frequência.
+
 Lembretes por notificação podem contribuir para aumentar a utilização da ferramenta.
+
 O usuário deseja visualizar gráficos sobre seus gastos.
+
 Pequenas compras realizadas no dia a dia podem ser mais difíceis de registrar e acompanhar.
 
 Artefato:
