@@ -126,13 +126,22 @@ Stakeholders que podem contribuir com avaliações e conhecimentos relacionados 
 
 ## 2.3 Pesquisa e Entendimento do Problema
 
-Durante a etapa de Product Discovery, a equipe realizou pesquisas sobre educação financeira, controle de despesas, endividamento e diferentes perfis de renda.
+Metodologia adotada
+O grupo optou por uma pesquisa exploratória baseada em levantamento de dados secundários (estatísticas de institutos e órgãos especializados em finanças pessoais no Brasil), usados como base para embasar a criação das personas e do Mapa de Empatia.
 
-Os dados pesquisados indicaram dificuldades relevantes relacionadas ao controle das finanças pessoais. Entre os dados levantados pela equipe estão informações sobre a dificuldade de parte da população em calcular juros, acompanhar os próprios gastos e pagar as despesas mensais.
+Fontes consultadas
 
-Também foram pesquisadas informações relacionadas aos trabalhadores autônomos e à inadimplência no Brasil. Esses dados contribuíram para a definição de um público que contempla tanto pessoas com renda fixa quanto pessoas com renda variável.
+Serasa — levantamento sobre inadimplência por faixa etária.
+Pesquisas de mercado sobre trabalho autônomo no Brasil.
+Levantamentos sobre educação financeira e hábitos de consumo da população brasileira.
 
-A pesquisa também ajudou a equipe a identificar dificuldades relacionadas ao registro das despesas, ao planejamento financeiro e à necessidade de uma comunicação simples para usuários com diferentes níveis de conhecimento sobre finanças.
+Resultados encontrados
+
+O Brasil tem cerca de 30,2 milhões de trabalhadores autônomos, grupo que costuma calcular o orçamento pela renda média (e não pela mínima), o que compromete o planejamento nos meses de renda mais baixa, além de frequentemente esquecer de provisionar impostos e taxas.
+Cerca de 34% dos brasileiros entre 26 e 40 anos representam a maior fatia de inadimplentes do país, segundo o Serasa.
+Apenas 14,3% dos brasileiros conseguem fazer um cálculo simples de juros — reforça a necessidade de linguagem simples e visual, sem jargão financeiro.
+62,9% das pessoas não sabem quanto gastam por mês.
+72,4% da população tem dificuldade para pagar as despesas mensais, e 46,2% atrasam pelo menos uma conta.
 
 ### Principais fontes consultadas
 
