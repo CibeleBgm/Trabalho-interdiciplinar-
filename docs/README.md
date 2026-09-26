@@ -67,8 +67,8 @@ Entre os possíveis usuários estão estudantes, trabalhadores, autônomos e pes
 O público-alvo não precisa possuir conhecimentos avançados de tecnologia ou de educação financeira. A proposta considera usuários que buscam uma forma prática e simples de registrar suas movimentações e visualizar sua situação financeira.
 
 
-2. Product Discovery
-2.1 Matriz CSD (Matriz de Alinhamento)
+## 2. Product Discovery
+## 2.1 Matriz CSD (Matriz de Alinhamento)
 
 A Matriz CSD foi utilizada para organizar os conhecimentos, dúvidas e hipóteses levantados pela equipe durante o processo de entendimento do problema.
 
@@ -92,7 +92,37 @@ Artefato:
 
 ## 2.2 Mapa de Stakeholders
 
-[Inserir Mapa de Stakeholders]
+O mapa de stakeholders foi elaborado para identificar as pessoas, organizações e grupos que possuem algum envolvimento com o problema, com o desenvolvimento ou com a utilização da solução.
+
+### Pessoas fundamentais
+
+Principais envolvidos no problema e potenciais usuários da solução:
+
+* Usuários que gerenciam e controlam suas despesas.
+* Pequenos empreendedores e trabalhadores autônomos.
+
+### Pessoas importantes
+
+Stakeholders que podem influenciar o desenvolvimento ou a utilização da solução:
+
+* Lojas de aplicativos.
+* Concorrentes e outros aplicativos financeiros.
+* Familiares e amigos.
+* Órgãos reguladores relacionados à proteção de dados, como a ANPD.
+* Serviços de nuvem e backup.
+
+### Pessoas influenciadoras
+
+Stakeholders que podem contribuir com avaliações e conhecimentos relacionados ao problema e à solução:
+
+* Opinião pública.
+* Consultores de planejamento financeiro.
+* Educadores financeiros.
+
+**Artefato:**
+
+![Mapa de Stakeholders](imagens/stakeholders.png)
+
 
 ## 2.3 Pesquisa e Entendimento do Problema
 
