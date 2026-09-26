@@ -29,19 +29,18 @@ A documentação do projeto é estruturada da seguinte forma:
 # 1. Contexto do Projeto
 
 ## 1.1 Problema
-
-Muitas pessoas possuem dificuldade para acompanhar e organizar suas receitas e despesas ao longo do mês. A falta de um controle financeiro simples pode fazer com que o usuário não tenha uma visão clara de quanto está gastando, em quais categorias concentra seus gastos e quanto ainda possui disponível para utilizar.
-
-Esse problema pode ser ainda mais relevante quando a pessoa possui diferentes tipos de despesas, como alimentação, transporte, lazer, contas e compras, ou quando precisa separar gastos pessoais de gastos relacionados a atividades profissionais ou negócios.
-
-Dessa forma, existe a necessidade de compreender melhor os hábitos de controle financeiro das pessoas e as dificuldades encontradas por elas no acompanhamento de suas movimentações financeiras.
+A maioria dos brasileiros enfrenta desafios para gerenciar suas finanças pessoais, seja devido à renda incerta dos trabalhadores autônomos, que representam aproximadamente 30,2 milhões de indivíduos no Brasil, ou pela ausência de costume de rastrear receitas e despesas para os empregados CLT com salário fixo. Em ambas as situações, o desfecho é similar: dificuldades para economizar, dívidas no cartão de crédito ou no cheque especial, além de ansiedade ao manusear dinheiro. 
+Quem possui renda variável geralmente faz o planejamento financeiro com base na média de rendimentos, o que se desfaz nos meses de baixa, e muitas vezes se esquece de prever impostos e reservas. Por outro lado, aqueles com renda fixa costumam perder o controle sobre o destino do salário, especialmente através de compras por impulso, e acabam recorrendo ao crédito rotativo para equilibrar as contas no final do mês. Existem poucos aplicativos financeiros simples disponíveis no mercado que satisfaçam os dois perfis. A maioria das ferramentas atuais se baseia na suposição de que o usuário possui um salário estável e um conhecimento financeiro básico, o que exclui uma parte significativa da população.
 
 ## 1.2 Objetivo do Projeto
 
-### Objetivo Geral
+Desenvolver uma aplicação de controlo financeiro pessoal que ajude os utilizadores, independentemente do seu perfil de rendimento fixo ou variável, a gerir as suas despesas, compreender onde é que o seu dinheiro está a ser gasto e construir uma reserva financeira, através de uma interface simples e acessível mesmo para aqueles que têm poucos conhecimentos sobre finanças.
 
-Desenvolver uma solução de software que auxilie os usuários no controle e na organização de suas receitas e despesas, permitindo acompanhar suas movimentações financeiras de maneira simples e organizada.
+Automatizar a classificação dos gastos por categoria (alimentação, saúde, compras, etc.), permitindo a correção rápida pelo utilizador sempre que a categorização estiver incorreta.
 
+Oferecer ferramentas de planeamento e acompanhamento de metas de poupança, com visualização gráfica do progresso, adaptadas tanto a quem recebe um salário fixo como a quem tem uma renda variável.
+
+Disponibilizar conteúdos de educação financeira básica sobre economia, investimentos e formas de poupar dinheiro, utilizando uma linguagem simples e não técnica.
 ### Objetivos Específicos
 
 * Facilitar o registro e a organização de receitas e despesas.
@@ -52,20 +51,21 @@ Desenvolver uma solução de software que auxilie os usuários no controle e na 
 
 ## 1.3 Justificativa
 
-O controle das movimentações financeiras é importante para que as pessoas possam compreender melhor como seus recursos estão sendo utilizados. Quando os gastos não são registrados ou organizados, torna-se mais difícil acompanhar o orçamento e identificar situações que podem comprometer o planejamento financeiro.
+A escolha deste tema é justificada pelos dados obtidos na fase de investigação: apenas 14,3% dos cidadãos brasileiros conseguem efetuar um cálculo simples de juros; 62,9% não sabem quanto gastam por mês e 72,4% têm dificuldade em pagar as despesas mensais, sendo que 46,2% deixam de pagar pelo menos uma fatura. De acordo com um estudo da Serasa, a faixa etária dos 26 aos 40 anos representa a maior fatia de pessoas com dívidas em atraso no Brasil, o que corresponde precisamente ao perfil de parte do nosso público-alvo.
 
-O projeto é motivado pela necessidade de oferecer uma forma simples de registrar e organizar essas informações, evitando que o usuário precise utilizar métodos dispersos, como anotações manuais ou diferentes ferramentas para acompanhar seus gastos.
-
-A definição dos objetivos específicos busca atender principalmente às dificuldades relacionadas ao registro, à classificação e ao acompanhamento das movimentações financeiras. A organização por categorias e a separação entre gastos pessoais e de negócio também permitem uma visualização mais adequada das informações registradas.
+Optámos por nos concentrarmos especialmente no atendimento a rendimentos variáveis e trabalhadores independentes, visto serem um público mal atendido pelas aplicações financeiras tradicionais, que costumam usar o "salário fixo" como referência orçamental, o que não funciona para quem não sabe quanto vai ganhar no mês seguinte. Ao mesmo tempo, mantivemos o foco nos utilizadores com rendimento fixo e dificuldade em controlar os gastos, visto serem o perfil mais numeroso e mais suscetível a fazer compras por impulso e a contrair dívidas com o cartão de crédito.
 
 ## 1.4 Público-alvo
 
-O projeto é direcionado principalmente a pessoas que desejam organizar melhor suas finanças e acompanhar suas receitas e despesas no dia a dia.
+O aplicativo é voltado para pessoas entre 20 e 45 anos que buscam mais controle sobre suas finanças pessoais, com diferentes níveis de conhecimento financeiro e diferentes perfis de renda:
 
-Entre os possíveis usuários estão estudantes, trabalhadores, autônomos e pessoas que possuem atividades profissionais ou pequenos negócios e precisam acompanhar tanto movimentações pessoais quanto relacionadas ao trabalho.
+•	Trabalhadores autônomos com renda mensal irregular, sem rede de segurança financeira (ex: prestadores de serviço, diaristas).
 
-O público-alvo não precisa possuir conhecimentos avançados de tecnologia ou de educação financeira. A proposta considera usuários que buscam uma forma prática e simples de registrar suas movimentações e visualizar sua situação financeira.
+•	Trabalhadores CLT com renda fixa, mas com dificuldade de controlar gastos por impulso e evitar o cartão de crédito.
 
+•	Jovens em início de carreira (estagiários, primeiro emprego), buscando desenvolver hábitos financeiros e se organizar para o futuro.
+
+De forma geral, é um público com pouco ou nenhum conhecimento técnico sobre finanças, que relaciona qualquer ferramenta "financeira" à ideia de auditoria ou julgamento, e que precisa de uma comunicação simples, visual e sem jargões. 
 
 ## 2. Product Discovery
 ## 2.1 Matriz CSD (Matriz de Alinhamento)
@@ -301,3 +301,16 @@ A partir das personas identificadas, foram elaboradas histórias de usuários pa
 ## 4.3 Kanban
 
 [Inserir imagem do Kanban e link para o quadro.]
+
+## 4.4 Referencias
+
+• SERASA (dados IBGE 2022). Saiba como é o trabalho autônomo. Disponível em: https://www.serasa.com.br/blog/como-e-trabalho-autonomo 
+• BANCO CENTRAL DO BRASIL. Pesquisa de Letramento e Inclusão Financeira, em parceria com o Fundo Garantidor de Créditos (FGC). Disponível em: https://convergenciadigital.com.br/?p=27092  
+• IBGE. Pesquisa de Orçamentos Familiares (POF) 2017-2018: Perfil das Despesas. Agência de Notícias IBGE, 19/08/2021. Disponível em: https://agenciadenoticias.ibge.gov.br/agencia-noticias/31401-72-4-dos-brasileirosvivem-em-familias-com-dificuldades-para-pagar-as-contas.html  
+• SPC BRASIL; CNDL. Pesquisa sobre educação financeira e controle de orçamento dos brasileiros. Disponível em: https://www.spcbrasil.org.br/uploads/st_imprensa/release_educacao_financeira_v7.pd f  
+• SERASA EXPERIAN. Mapa da Inadimplência (levantamento mensal por faixa etária). Disponível em: https://vitrine.sebraego.com.br/wpcontent/uploads/2025/07/mapa-da-inadimplencia-maio-serasa.pdf  
+• https://vitrine.sebraego.com.br/wp-content/uploads/2025/07/mapa-da-inadimplenciamaio-serasa.pdf  
+• https://agenciadenoticias.ibge.gov.br/agencia-noticias/31401-72-4-dos-brasileirosvivem-em-familias-com-dificuldades-para-pagar-as-contas.html 
+• https://convergenciadigital.com.br/?p=27092 
+• https://www.spcbrasil.org.br/uploads/st_imprensa/release_educacao_financeira_v7.pd f 
+• https://www.serasa.com.br/blog/como-e-trabalho-autonomo 
