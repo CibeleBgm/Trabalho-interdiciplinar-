@@ -291,7 +291,7 @@ A partir das personas identificadas, foram elaboradas histórias de usuários pa
 
 ### 3.3.1 Fluxo do Usuário
 
-![Mapa de userflow](imagens/user-flow.png)
+![Mapa de userflow](imagens/imagensuser-flow.png)
 
 ### 3.3.2 Wireframes
 
