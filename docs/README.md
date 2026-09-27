@@ -293,11 +293,21 @@ A partir das personas identificadas, foram elaboradas histórias de usuários pa
 
 ### 3.3.2 Wireframes
 
-[Inserir os wireframes.]
+Foram desenvolvidos wireframes de baixa fidelidade no Figma para representar a estrutura das principais telas do aplicativo antes da implementação, contemplando as telas de Resumo, Painel Financeiro, Cadastro de Lançamentos, Gerenciamento de Categorias e Notificações.
+
+**Artefato:**
+
+[![Wireframes do Projeto](https://github.com/CibeleBgm/Trabalho-interdiciplinar-/raw/main/docs/imagens/wireframes-geral.png)](/CibeleBgm/Trabalho-interdiciplinar-/blob/main/docs/imagens/wireframes-geral.png)
+
+**Wireframe detalhado — Painel Financeiro:**
+
+[![Wireframe Painel Financeiro](https://github.com/CibeleBgm/Trabalho-interdiciplinar-/raw/main/docs/imagens/wireframe-painel-financeiro.png)](/CibeleBgm/Trabalho-interdiciplinar-/blob/main/docs/imagens/wireframe-painel-financeiro.png)
 
 ### 3.3.3 Protótipo Interativo
 
-[Inserir o link do Figma/protótipo.]
+O protótipo interativo com todas as telas planejadas para a Sprint 1 está disponível no Figma, permitindo a navegação entre as telas do aplicativo:
+
+🔗 [Protótipo no Figma — Planejamento Sprint 1](https://www.figma.com/design/0Rz1Wrj0YDDTRTJAYbH647/Planejamento-Sprint-1)
 
 
 # 4. Metodologia
