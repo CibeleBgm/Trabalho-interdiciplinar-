@@ -283,7 +283,9 @@ A partir das personas identificadas, foram elaboradas histórias de usuários pa
 
 ## 3.2 Proposta de Valor
 
-[Inserir o mapa/diagrama da proposta de valor.]
+<img width="946" height="455" alt="image" src="https://github.com/user-attachments/assets/a5f637cf-bc43-4949-95ef-6b11d5d8d1dc" />
+<img width="1050" height="513" alt="image" src="https://github.com/user-attachments/assets/16ece0cf-8c17-4095-a5e1-966979daf46c" />
+<img width="1045" height="507" alt="image" src="https://github.com/user-attachments/assets/efb49412-27ef-4c79-95b6-5813b844de07" />
 
 ## 3.3 Projeto de Interface
 
