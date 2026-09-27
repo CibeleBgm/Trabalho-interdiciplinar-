@@ -348,7 +348,13 @@ Rituais e Acompanhamento: Foram realizadas reuniões periódicas para alinhar o 
 
 [Inserir imagem do Kanban e link para o quadro.]
 
-## 4.4 Referências
+# 5. Solução
+
+Conteúdo da solução do projeto.
+
+# 6. Referências Bibliográficas
+
+Referências utilizadas no desenvolvimento do projeto.
 
 • SERASA (dados IBGE 2022). Saiba como é o trabalho autônomo. Disponível em: https://www.serasa.com.br/blog/como-e-trabalho-autonomo 
 • BANCO CENTRAL DO BRASIL. Pesquisa de Letramento e Inclusão Financeira, em parceria com o Fundo Garantidor de Créditos (FGC). Disponível em: https://convergenciadigital.com.br/?p=27092  
