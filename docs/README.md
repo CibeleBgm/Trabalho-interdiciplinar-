@@ -320,7 +320,20 @@ O protótipo interativo com todas as telas planejadas para a Sprint 1 está disp
 
 ## 4.2 Organização da Equipe e Divisão de Papéis
 
-[Explicar como a equipe se organizou, divisão de tarefas e utilização do Scrum.]
+Para a execução e gestão do projeto, a equipe organizou-se utilizando o framework ágil Scrum, permitindo o acompanhamento contínuo do progresso, a divisão clara de responsabilidades e entregas.
+
+Divisão de Papéis:
+Joaquim Fernandes (Product Owner): Responsável pela visão geral do produto, definição do escopo, levantamento de requisitos e priorização das funcionalidades no Product Backlog.
+Pedro Cristian (Scrum Master): Responsável por facilitar a aplicação do Scrum, organizar as reuniões rituais, remover impedimentos e apoiar a fluidez das atividades da equipe.
+Cibele Gomes, Isabelle Fernandes, Junio César e Ryan Gabriel (Equipe de Desenvolvimento): Responsáveis pela concepção, codificação, resolução de bugs e implementação das funcionalidades da aplicação.
+
+Implementação do Framework Scrum e Divisão de Tarefas:
+
+Product Backlog e Sprint Planning: O projeto teve suas funcionalidades desdobradas em requisitos no Product Backlog. No início de cada Sprint, a equipe realizou a Sprint Planning com a liderança do PO para definir quais itens seriam priorizados e transformados em tarefas menores no Sprint Backlog.
+
+Organização e Gestão de Tarefas (Kanban): As tarefas foram atribuídas individualmente conforme as competências dos integrantes e gerenciadas por meio de um quadro visual com os status: A Fazer, Em Andamento, Em Revisão/Testes e Concluído.
+
+Rituais e Acompanhamento: Foram realizadas reuniões periódicas para alinhar o andamento dos desenvolvimentos, identificar eventuais bloqueios técnicos e ajustar o planejamento das entregas. Ao final dos ciclos, as funcionalidades desenvolvidas foram validadas e integradas ao projeto principal.
 
 ## 4.3 Kanban
 
