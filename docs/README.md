@@ -316,7 +316,16 @@ O protótipo interativo com todas as telas planejadas para a Sprint 1 está disp
 
 ## 4.1 Ferramentas
 
-[Lista das ferramentas utilizadas + links + justificativa.]
+Foram utilizadas as seguintes ferramentas: Miro, figma 
+
+https://miro.com/pt/ 
+
+https://www.figma.com/files/team/1367940164648101481/recents-and-sharing?fuid=1367940060558774085.
+
+Justificativa: O Miro foi utilizado como uma ferramenta de colaboração visual para organizar ideias, informações e atividades de forma clara e interativa. A plataforma permite criar quadros digitais, facilitando o planejamento, a organização e o trabalho em equipe.
+
+Justificativa: O Figma foi utilizado para criar e desenvolver protótipos e interfaces de forma visual e organizada. A ferramenta facilita a elaboração do design do projeto, permitindo estruturar telas, elementos visuais e a navegação antes da implementação do sistema ou site.
+O Figma foi utilizado para criar e desenvolver protótipos e interfaces de forma visual e organizada. A ferramenta permite planejar o design das telas, estruturar elementos e facilitar a colaboração entre os integrantes da equipe durante o desenvolvimento do projeto.
 
 ## 4.2 Organização da Equipe e Divisão de Papéis
 
