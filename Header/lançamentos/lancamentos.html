@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Control+ | Lançamentos</title>
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="app">
+
+    <!-- ===== MENU LATERAL CONTROL. ===== -->
+    <aside class="menu">
+      <a href="#" class="menu__logo">
+        <span class="menu__logo-icone" aria-hidden="true">
+          <svg viewBox="0 0 24 24">
+            <path d="M7 8V6.5A2.5 2.5 0 0 1 9.5 4h7A2.5 2.5 0 0 1 19 6.5V18a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V8h12"></path>
+            <path d="M5 9h12"></path>
+            <path d="M15.5 13h2"></path>
+          </svg>
+        </span>
+        <span>Control<span class="menu__logo-ponto">.</span></span>
+      </a>
+
+      <div class="menu__secao">Menu principal</div>
+
+      <nav class="menu__lista">
+        <a href="#" class="menu__item">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <rect x="4" y="4" width="6" height="6" rx="1"></rect>
+            <rect x="14" y="4" width="6" height="6" rx="1"></rect>
+            <rect x="4" y="14" width="6" height="6" rx="1"></rect>
+            <rect x="14" y="14" width="6" height="6" rx="1"></rect>
+          </svg>
+          <span>Dashboard</span>
+        </a>
+
+        <a href="#" class="menu__item ativo">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M7 7h13"></path>
+            <path d="m17 4 3 3-3 3"></path>
+            <path d="M17 17H4"></path>
+            <path d="m7 14-3 3 3 3"></path>
+          </svg>
+          <span>Lançamentos</span>
+        </a>
+
+        <a href="#" class="menu__item">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="m20 12-8 8-8-8 8-8 8 8Z"></path>
+            <path d="M12 12h.01"></path>
+          </svg>
+          <span>Categorias</span>
+        </a>
+
+        <a href="#" class="menu__item">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="12" cy="12" r="8.5"></circle>
+            <circle cx="12" cy="12" r="4"></circle>
+            <circle cx="12" cy="12" r="1"></circle>
+          </svg>
+          <span>Metas</span>
+        </a>
+
+        <a href="#" class="menu__item">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="m4 17 6-6 4 4 6-7"></path>
+            <path d="M16 8h4v4"></path>
+          </svg>
+          <span>Aportes</span>
+        </a>
+
+        <a href="#" class="menu__item">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="m4 8 8-4 8 4-8 4-8-4Z"></path>
+            <path d="M7 10v5c2.8 2.7 7.2 2.7 10 0v-5"></path>
+          </svg>
+          <span>Educação</span>
+        </a>
+
+        <a href="#" class="menu__item">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="12" cy="12" r="3"></circle>
+            <path d="M19.4 15a1.8 1.8 0 0 0 .36 1.98l.06.06-1.7 1.7-.06-.06a1.8 1.8 0 0 0-1.98-.36 1.8 1.8 0 0 0-1.1 1.65V20h-2.4v-.03a1.8 1.8 0 0 0-1.1-1.65 1.8 1.8 0 0 0-1.98.36l-.06.06-1.7-1.7.06-.06A1.8 1.8 0 0 0 8.2 15a1.8 1.8 0 0 0-1.65-1.1H6.5v-2.4h.05A1.8 1.8 0 0 0 8.2 10a1.8 1.8 0 0 0-.36-1.98l-.06-.06 1.7-1.7.06.06a1.8 1.8 0 0 0 1.98.36 1.8 1.8 0 0 0 1.1-1.65V5h2.4v.03a1.8 1.8 0 0 0 1.1 1.65 1.8 1.8 0 0 0 1.98-.36l.06-.06 1.7 1.7-.06.06A1.8 1.8 0 0 0 19.4 10c.25.67.89 1.1 1.6 1.1h.5v2.4H21c-.71 0-1.35.43-1.6 1.1Z"></path>
+          </svg>
+          <span>Configurações</span>
+        </a>
+      </nav>
+    </aside>
+
+
+
+    <main class="conteudo">
+      <header class="cabecalho">
+        <div>
+          <h1>Lançamentos</h1>
+          <p>Visualize e gerencie seus lançamentos financeiros.</p>
+        </div>
+        <button class="btn-novo" id="abrirModal">+ Novo Lançamento</button>
+      </header>
+
+      <section class="filtros">
+        <div class="campo">
+          <label for="busca">Buscar</label>
+          <div class="input-wrap">
+            <span class="icone">⌕</span>
+            <input type="text" id="busca" placeholder="Buscar lançamento...">
+          </div>
+        </div>
+
+        <div class="campo">
+          <label for="periodo">Período</label>
+          <select id="periodo">
+            <option value="todos">Todos</option>
+            <option value="hoje">Hoje</option>
+            <option value="7dias">Últimos 7 dias</option>
+            <option value="30dias">Últimos 30 dias</option>
+          </select>
+        </div>
+
+        <div class="campo">
+          <label for="tipoFiltro">Tipo</label>
+          <select id="tipoFiltro">
+            <option value="todos">Todos</option>
+            <option value="receita">Receita</option>
+            <option value="despesa">Despesa</option>
+          </select>
+        </div>
+      </section>
+
+      <section class="painel">
+        <div class="painel-topo">
+          <div class="contador">Total de lançamentos: <strong id="contador">0</strong></div>
+          <button class="ordenacao" id="ordenar">↕ Mais recentes</button>
+        </div>
+
+        <div class="tabela-wrapper" id="tabelaArea">
+          <table>
+            <thead>
+              <tr>
+                <th class="check"><input type="checkbox" id="selecionarTodos"></th>
+                <th>Data</th>
+                <th>Descrição</th>
+                <th>Tipo</th>
+                <th>Cliente</th>
+                <th>Valor</th>
+                <th>Ações</th>
+              </tr>
+            </thead>
+            <tbody id="tabela"></tbody>
+          </table>
+        </div>
+
+        <div class="vazio" id="estadoVazio">
+          <div>
+            <div class="vazio-icone">⌕</div>
+            <h2>Nenhum resultado encontrado</h2>
+            <p id="mensagemVazio">Não encontramos lançamentos que correspondam aos filtros selecionados.</p>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- MODAL NOVO LANÇAMENTO -->
+  <div class="modal" id="modal">
+    <div class="modal-card">
+      <div class="modal-cabecalho">
+        <div>
+          <span class="modal-etiqueta">Lançamentos</span>
+          <h2>Novo lançamento</h2>
+          <p>Adicione uma nova movimentação financeira.</p>
+        </div>
+        <button type="button" class="modal-fechar" id="fecharModal" aria-label="Fechar">×</button>
+      </div>
+
+      <form id="formLancamento" class="form-grid">
+        <div class="campo-form">
+          <label for="novaDescricao">Descrição</label>
+          <input id="novaDescricao" required placeholder="Ex.: Mercado">
+        </div>
+
+        <div class="form-duplo">
+          <div class="campo-form">
+            <label for="novoCliente">Cliente</label>
+            <input id="novoCliente" required placeholder="Cliente">
+          </div>
+          <div class="campo-form">
+            <label for="novoTipo">Tipo</label>
+            <select id="novoTipo">
+              <option value="despesa">Despesa</option>
+              <option value="receita">Receita</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-duplo">
+          <div class="campo-form">
+            <label for="novoValor">Valor</label>
+            <input id="novoValor" required type="number" min="0" step="0.01" placeholder="0,00">
+          </div>
+          <div class="campo-form">
+            <label for="novaData">Data</label>
+            <input id="novaData" required type="date">
+          </div>
+        </div>
+
+        <div class="modal-acoes">
+          <button type="button" class="btn-cancelar" id="cancelarNovo">Cancelar</button>
+          <button type="submit" class="btn-novo">Adicionar lançamento</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- TELA DE EDIÇÃO -->
+  <div class="modal" id="modalEdicao">
+    <div class="modal-card modal-edicao">
+      <div class="modal-cabecalho">
+        <div>
+          <span class="modal-etiqueta">Lançamentos</span>
+          <h2>Editar lançamento</h2>
+          <p>Corrija as informações deste lançamento financeiro.</p>
+        </div>
+        <button type="button" class="modal-fechar" id="fecharModalEdicao" aria-label="Fechar">×</button>
+      </div>
+
+      <form id="formEdicao" class="form-grid">
+        <input type="hidden" id="edicaoId">
+
+        <div class="campo-form">
+          <label for="edicaoDescricao">Descrição</label>
+          <input id="edicaoDescricao" required placeholder="Ex.: Mercado">
+        </div>
+
+        <div class="form-duplo">
+          <div class="campo-form">
+            <label for="edicaoCliente">Cliente</label>
+            <input id="edicaoCliente" required placeholder="Cliente">
+          </div>
+          <div class="campo-form">
+            <label for="edicaoTipo">Tipo</label>
+            <select id="edicaoTipo">
+              <option value="despesa">Despesa</option>
+              <option value="receita">Receita</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-duplo">
+          <div class="campo-form">
+            <label for="edicaoValor">Valor</label>
+            <input id="edicaoValor" required type="number" min="0" step="0.01" placeholder="0,00">
+          </div>
+          <div class="campo-form">
+            <label for="edicaoData">Data</label>
+            <input id="edicaoData" required type="date">
+          </div>
+        </div>
+
+        <div class="modal-acoes">
+          <button type="button" class="btn-cancelar" id="fecharEdicao">Cancelar</button>
+          <button type="submit" class="btn-novo">Salvar alterações</button>
+        </div>
+      </form>
+    </div>
+  </div>
+  <script src="js/app.js"></script>
+</body>
+</html>
