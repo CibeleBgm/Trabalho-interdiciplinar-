@@ -12,7 +12,6 @@ Descrição resumida do projeto.
 
 - Cibele Gomes
 - Isabelle Fernandes
-- Joaquim Fernandes
 - Junio César
 - Pedro Cristian
 - Ryan Gabriel
